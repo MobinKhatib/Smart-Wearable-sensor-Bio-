@@ -1,74 +1,51 @@
-# \# Smart Wearable Sensor Bio
+# Smart Wearable Sensor Bio
 
-# 
+This repository contains the hardware design files for the **Bio sensor section** of a Smart Wearables Design and Prototyping group project.
 
-# This repository contains the hardware design files for the \*\*Bio sensor section\*\* of a Smart Wearables Design and Prototyping group project.
+The full project was a larger wearable sensing system, including PCB design, embedded firmware, sensor acquisition, wireless communication, data logging, and data processing.
 
-# 
+## Project Overview
 
-# The full project was a larger wearable sensing system, including PCB design, embedded firmware, sensor acquisition, wireless communication, data logging, and data processing.
+This repository currently focuses on the **Altium PCB hardware design** part of the project.
 
-# 
+The complete group project included:
 
-# \## Project Overview
+- PCB and schematic design
+- STM32-based embedded firmware
+- IMU data acquisition
+- Bio-signal sensor integration
+- Temperature sensor integration
+- BLE / UART communication
+- Memory logging
+- USB data transfer
+- Data processing and testing
 
-# 
+## Repository Structure
 
-# This repository currently focuses on the \*\*Altium PCB hardware design\*\* part of the project.
+- `hardware/altium-pcb/` — Altium Designer PCB project files
+- `README.md` — project description
+- `.gitignore` — ignored temporary/generated files
 
-# 
+## Hardware Design Files
 
-# The complete group project included:
+The Altium project includes:
 
-# 
+- Main PCB layout: `PCB1.PcbDoc`
+- Schematic design: `Sheet1.SchDoc`
+- PCB project file: `SWDP_proj.PrjPcb`
+- PCB component library: `SWDP_proj.PcbLib`
+- Schematic library: `SWDP_proj.SchLib`
+- Bill of Materials document: `SWDP_proj.BomDoc`
+- Output job configuration: `Job1.OutJob`
 
-# \- PCB and schematic design
+## Notes
 
-# \- STM32-based embedded firmware
+This was developed as a **group project**.
 
-# \- IMU data acquisition
+This repository mainly contains the uploaded **hardware/PCB design** part. Other parts of the complete system, such as firmware and data-processing code, may be added separately.
 
-# \- Bio-signal sensor integration
+## Author
 
-# \- Temperature sensor integration
-
-# \- BLE / UART communication
-
-# \- Memory logging
-
-# \- USB data transfer
-
-# \- Data processing and testing
-
-# 
-
-# \## Repository Structure
-
-# 
-
-# ```text
-
-# .
-
-# ├── hardware/
-
-# │   └── altium-pcb/
-
-# │       ├── PCB1.PcbDoc
-
-# │       ├── Sheet1.SchDoc
-
-# │       ├── SWDP\_proj.PrjPcb
-
-# │       ├── SWDP\_proj.PcbLib
-
-# │       ├── SWDP\_proj.SchLib
-
-# │       ├── SWDP\_proj.BomDoc
-
-# │       └── Job1.OutJob
-
-# ├── README.md
-
-# └── .gitignore
-
+Mobin Khatib  
+MSc Electronics Engineering  
+Politecnico di Milano
