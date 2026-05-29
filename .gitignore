@@ -1,0 +1,17 @@
+# Altium temporary / generated folders
+**/__Previews/
+**/History/
+**/Project Logs*/
+**/*.PrjPcbStructure
+**/*.DsnWrk
+
+# Backup / temporary files
+**/*.bak
+**/*.log
+**/*.LOG
+**/*.~*
+**/~$*
+
+# OS files
+.DS_Store
+Thumbs.db
