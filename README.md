@@ -1,5 +1,3 @@
-# @"
-
 # \# Smart Wearable Sensor Bio
 
 # 
@@ -8,7 +6,7 @@
 
 # 
 
-# The project is part of a larger wearable sensing system. The complete system includes hardware design, embedded firmware, sensor acquisition, wireless communication, data logging, and data processing.
+# The full project was a larger wearable sensing system, including PCB design, embedded firmware, sensor acquisition, wireless communication, data logging, and data processing.
 
 # 
 
@@ -16,11 +14,11 @@
 
 # 
 
-# The Bio section focuses on the design of a wearable biomedical sensing module. The hardware design was developed in \*\*Altium Designer\*\* and includes schematic and PCB design files.
+# This repository currently focuses on the \*\*Altium PCB hardware design\*\* part of the project.
 
 # 
 
-# The broader group project involved:
+# The complete group project included:
 
 # 
 
@@ -28,17 +26,19 @@
 
 # \- STM32-based embedded firmware
 
-# \- Sensor integration
-
 # \- IMU data acquisition
 
-# \- Bio-signal and temperature sensing
+# \- Bio-signal sensor integration
+
+# \- Temperature sensor integration
 
 # \- BLE / UART communication
 
 # \- Memory logging
 
-# \- Data transfer and processing
+# \- USB data transfer
+
+# \- Data processing and testing
 
 # 
 
