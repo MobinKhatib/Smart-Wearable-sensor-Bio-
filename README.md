@@ -43,9 +43,3 @@ The Altium project includes:
 This was developed as a **group project**.
 
 This repository mainly contains the uploaded **hardware/PCB design** part. Other parts of the complete system, such as firmware and data-processing code, may be added separately.
-
-## Author
-
-Mobin Khatib  
-MSc Electronics Engineering  
-Politecnico di Milano
