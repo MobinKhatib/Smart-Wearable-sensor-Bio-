@@ -10,6 +10,16 @@ This was a **group project** and not every part of the repository was developed 
 
 Some parts were based on the provided course/professor starter project, while other parts were completed, modified, integrated, or extended by the team. This repository is intended to document the project work and the parts uploaded for demonstration, study, and portfolio purposes.
 
+## Prototype Photos
+
+The following images show the prototype/device setup used during the project.
+
+<p align="center">
+  <img src="docs/images/device_photo_1.jpg" width="30%">
+  <img src="docs/images/device_photo_2.jpg" width="30%">
+  <img src="docs/images/device_photo_3.jpg" width="30%">
+</p>
+
 ## Project Overview
 
 The system was designed to acquire and process wearable sensor data, including:
