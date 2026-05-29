@@ -1,0 +1,6 @@
+../Core/Src/MAX30205.c:22:9:MAX30205_ReadTemperature	2
+../Core/Src/MAX30205.c:37:9:MAX30205_ReadConfig	1
+../Core/Src/MAX30205.c:43:9:MAX30205_WriteConfig	1
+../Core/Src/MAX30205.c:53:9:MAX30205_ReadRegister	3
+../Core/Src/MAX30205.c:72:9:MAX30205_WriteRegister	2
+../Core/Src/MAX30205.c:83:9:MAX30205_BitMask	2

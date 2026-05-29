@@ -1,0 +1,5 @@
+../Core/Src/LSM6DSV16BX.c:24:9:LSMBX_EnableAutoIncrement	1
+../Core/Src/LSM6DSV16BX.c:29:9:LSMBX_DisableAutoIncrement	1
+../Core/Src/LSM6DSV16BX.c:38:9:LSMBX_ReadRegister	2
+../Core/Src/LSM6DSV16BX.c:55:9:LSMBX_WriteRegister	2
+../Core/Src/LSM6DSV16BX.c:69:9:LSMBX_BitMask	2

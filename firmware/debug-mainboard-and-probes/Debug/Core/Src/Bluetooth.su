@@ -1,0 +1,9 @@
+../Core/Src/Bluetooth.c:31:6:BLEHardReset	8	static
+../Core/Src/Bluetooth.c:40:6:BLEConfig	184	static
+../Core/Src/Bluetooth.c:105:6:BLEDormant	40	static
+../Core/Src/Bluetooth.c:141:6:BLELowPower	152	static
+../Core/Src/Bluetooth.c:180:6:BLEWakeUp	152	static
+../Core/Src/Bluetooth.c:215:6:BLERun	160	static
+../Core/Src/Bluetooth.c:255:6:BLESlowAdvertisements	168	static
+../Core/Src/Bluetooth.c:288:6:BLE_SendData	16	static
+../Core/Src/Bluetooth.c:298:6:BLE_ReceiveData	16	static

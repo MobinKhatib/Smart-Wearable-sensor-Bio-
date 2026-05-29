@@ -1,0 +1,3 @@
+../Core/Src/IIS2MDC.c:20:9:IIS2_ReadRegister	2
+../Core/Src/IIS2MDC.c:37:9:IIS2_WriteRegister	2
+../Core/Src/IIS2MDC.c:51:9:IIS2_BitMask	2

@@ -1,0 +1,16 @@
+../Core/Src/peripheral_tests.c:66:6:Green_LED_ON	8	static
+../Core/Src/peripheral_tests.c:71:6:Green_LED_OFF	8	static
+../Core/Src/peripheral_tests.c:76:6:Red_LED_ON	8	static
+../Core/Src/peripheral_tests.c:81:6:Red_LED_OFF	8	static
+../Core/Src/peripheral_tests.c:92:6:test_USB_TX	72	static
+../Core/Src/peripheral_tests.c:108:6:test_BLE	24	static
+../Core/Src/peripheral_tests.c:118:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/peripheral_tests.c:133:6:test_NAND	16	static
+../Core/Src/peripheral_tests.c:179:6:test_IMU_IS	24	static
+../Core/Src/peripheral_tests.c:218:6:test_MAG	24	static
+../Core/Src/peripheral_tests.c:253:6:test_BAR	24	static
+../Core/Src/peripheral_tests.c:288:6:test_IMU_BX	24	static
+../Core/Src/peripheral_tests.c:325:6:test_PPG	48	static
+../Core/Src/peripheral_tests.c:364:6:test_TEMP	24	static
+../Core/Src/peripheral_tests.c:401:6:test_UVSENS	88	static
+../Core/Src/peripheral_tests.c:439:6:test_LIGHTSENS	88	static

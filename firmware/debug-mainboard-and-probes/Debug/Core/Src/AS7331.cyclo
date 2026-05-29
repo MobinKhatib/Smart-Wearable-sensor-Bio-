@@ -1,0 +1,4 @@
+../Core/Src/AS7331.c:25:9:AS7331_ReadRegister	3
+../Core/Src/AS7331.c:38:9:AS7331_WriteRegister	2
+../Core/Src/AS7331.c:48:9:AS7331_BitMask	2
+../Core/Src/AS7331.c:72:9:AS7331_ReadDeviceID	2

@@ -1,0 +1,6 @@
+../Core/Src/MAX30205.c:22:9:MAX30205_ReadTemperature	24	static
+../Core/Src/MAX30205.c:37:9:MAX30205_ReadConfig	16	static
+../Core/Src/MAX30205.c:43:9:MAX30205_WriteConfig	16	static
+../Core/Src/MAX30205.c:53:9:MAX30205_ReadRegister	40	static
+../Core/Src/MAX30205.c:72:9:MAX30205_WriteRegister	32	static
+../Core/Src/MAX30205.c:83:9:MAX30205_BitMask	24	static

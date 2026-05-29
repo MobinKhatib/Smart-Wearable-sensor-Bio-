@@ -1,0 +1,4 @@
+../Core/Src/SPI_DMA_NAND.c:42:6:nand_dma_spi_callback	6
+../Core/Src/SPI_DMA_NAND.c:86:6:nand_dma_start_write	1
+../Core/Src/SPI_DMA_NAND.c:131:8:nand_dma_get_status	1
+../Core/Src/SPI_DMA_NAND.c:135:6:nand_dma_set_status	1

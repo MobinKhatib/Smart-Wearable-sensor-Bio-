@@ -1,0 +1,4 @@
+../Core/Src/AS7341.c:23:9:AS7341_ReadRegister	40	static
+../Core/Src/AS7341.c:36:9:AS7341_WriteRegister	32	static
+../Core/Src/AS7341.c:46:9:AS7341_BitMask	24	static
+../Core/Src/AS7341.c:68:9:AS7341_ReadDeviceID	24	static

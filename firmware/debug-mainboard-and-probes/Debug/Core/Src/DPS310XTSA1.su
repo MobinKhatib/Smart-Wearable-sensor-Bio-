@@ -1,0 +1,5 @@
+../Core/Src/DPS310XTSA1.c:21:9:DPS310_ReadRegister	40	static
+../Core/Src/DPS310XTSA1.c:38:9:DPS310_WriteRegister	32	static
+../Core/Src/DPS310XTSA1.c:52:9:DPS310_BitMask	24	static
+../Core/Src/DPS310XTSA1.c:67:6:DPS310_Read_Coef	24	static
+../Core/Src/DPS310XTSA1.c:74:9:twosComplement	16	static

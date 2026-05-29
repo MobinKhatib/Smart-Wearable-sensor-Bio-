@@ -1,0 +1,9 @@
+../Core/Src/Bluetooth.c:31:6:BLEHardReset	1
+../Core/Src/Bluetooth.c:40:6:BLEConfig	1
+../Core/Src/Bluetooth.c:105:6:BLEDormant	1
+../Core/Src/Bluetooth.c:141:6:BLELowPower	1
+../Core/Src/Bluetooth.c:180:6:BLEWakeUp	1
+../Core/Src/Bluetooth.c:215:6:BLERun	1
+../Core/Src/Bluetooth.c:255:6:BLESlowAdvertisements	1
+../Core/Src/Bluetooth.c:288:6:BLE_SendData	1
+../Core/Src/Bluetooth.c:298:6:BLE_ReceiveData	1

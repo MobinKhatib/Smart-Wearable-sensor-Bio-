@@ -1,0 +1,3 @@
+../Core/Src/LSM6DSO16IS.c:16:9:LSMIS_ReadRegister	2
+../Core/Src/LSM6DSO16IS.c:33:9:LSMIS_WriteRegister	2
+../Core/Src/LSM6DSO16IS.c:47:9:LSMIS_BitMask	2
